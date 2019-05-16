@@ -50,4 +50,4 @@ bosh -d pivotal-container-service-bf45f9e2177d5da24998 deploy pks-manifest.yaml
 ## Issues
 
 this is a temporary solution, the next time you run 'Apply Changes' through Ops Manager \
-it will be overriden with the default manifest.
+it will be overriden with the default manifest value.
